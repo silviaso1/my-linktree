@@ -22,7 +22,7 @@ const Perfil = () => (
         backgroundImage: `url(${Capa})`,
       }}
     >
-      <div className="absolute -bottom-5 ml-2 md:-bottom-3 left-1/2 transform -translate-x-1/2 z-20">
+      <div className="absolute -bottom-5 md:-bottom-3 left-1/2 transform -translate-x-1/2 z-20">
         <div className="rounded-full p-3 bg-[#c7d4c4]">
           <div className="rounded-full border-4 border-white">
             <img
